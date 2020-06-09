@@ -1,0 +1,1 @@
+/signup?next=javascript:alert(1)
